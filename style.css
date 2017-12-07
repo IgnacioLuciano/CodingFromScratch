@@ -1,3 +1,15 @@
+#container {color:green;
+}
+
+td{color:grey;
+
+}
+
+.green{color:green;
+}
+
+.black{color:black;
+}
 
 
 
@@ -12,12 +24,3 @@
 
 
 
-
-
-Create a new branch in your local repository called Exercise6
-Create a new file called styles.css and link it to both your index.html and houses.html documents.
-Change all paragraph tags to be the color grey.
-Change the HBO anchor tag to navigate to the houses.html document.
-Make all of the text in the last column of your houses table appear in green.
-Make the last item of the last column in the houses table appear in black.
-Commit and merge your changes to your local repository and Github
