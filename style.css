@@ -8,10 +8,18 @@ td{color:grey;
 .green{color:green;
 }
 
-.black{color:black;
-}
+.black{color:black; }
 
+nav {position: absolute;
+top:0; }
 
+div {margin-top: 90px;}
+
+table {background-color: lightcoral;}
+
+ul {font-size: 1.3em; }
+
+.dottedline {border-style: dotted; }
 
 
 
