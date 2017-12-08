@@ -19,7 +19,9 @@ table {background-color: lightcoral;}
 
 ul {font-size: 1.3em; }
 
-.dottedline {border-style: dotted; }
+#dotted {border-style: dotted; }
+
+input {margin: 3px}
 
 
 
