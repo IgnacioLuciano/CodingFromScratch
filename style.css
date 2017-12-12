@@ -21,11 +21,20 @@ ul {font-size: 1.3em; }
 
 .dotted {border-style: dotted; }
 
-input {margin: 3px}
+input {margin: 3px;}
 
-.sidebyside{display: inline;
+#sidebyside1,#sidebyside2 {display: inline-block; 
+    width: 350px;     
 }
 
+#newfont{font-family: Trebuchet MS;
+
+}
+
+#smallfont{font-size: 1.3em;
+}
+
+#newdotted{border-style: dotted; }
 
 
 
